@@ -1,0 +1,11 @@
+{
+  "$schema": "https://openmods.nexus/openmods.schema.json",
+  "openmods": 1,
+  "name": "Origin Feat",
+  "summary": "Every character picks a feat at level 2. An MCM switch turns it off after the first level-up, so later classes give no extra feats.",
+  "games": ["baldurs-gate-3"],
+  "tags": ["gameplay", "characters"],
+  "cover": "docs/cover.jpg",
+  "requires": ["Norbyte's Script Extender", "Mod Configuration Menu"],
+  "gameVersions": ["Patch 8"]
+}

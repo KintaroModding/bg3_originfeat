@@ -1,0 +1,25 @@
+{
+  "SchemaVersion": 1,
+  "ModName": "Origin Feat",
+  "Tabs": [
+    {
+      "TabId": "general",
+      "TabName": "General",
+      "Sections": [
+        {
+          "SectionId": "general_settings",
+          "SectionName": "General",
+          "Settings": [
+            {
+              "Id": "extra_feat_on_level_up",
+              "Name": "Extra feat on level up",
+              "Type": "checkbox",
+              "Default": true,
+              "Description": "On: a class that reaches level 2 gives a feat. Turn it off after your characters reached level 2, so later classes give no extra feats. Works at once, without a reload. A new class (multiclass) never gives a feat from this mod. The host's setting counts."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
